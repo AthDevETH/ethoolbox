@@ -1,6 +1,6 @@
 {
     "name": "ethoolbox",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "description": "Comfy Uniswap-inspired Ethereum TypeScript SDK to handle bigints natively and conveniently",
     "keywords": [],
     "author": "Gilgameš",

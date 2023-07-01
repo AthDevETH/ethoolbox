@@ -28,7 +28,7 @@ export class NativeCurrency extends BaseCurrency {
         } else {
             wrappedAddress = validateAndParseAddress(wrappedAddress);
         }
-        this.wrapped = new Token(chainId, wrappedAddress, decimals, symbol, name);
+        this.wrapped = new Token(chainId, wrappedAddress, decimals, symbol, name, logoURI);
     }
 
 
